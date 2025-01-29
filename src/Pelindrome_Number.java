@@ -35,6 +35,7 @@ System.out.println("update using branch stash branch name updates");
 
 
 System.out.println("updating using github manually");
+System.out.println("fetch");
 
 }
 
