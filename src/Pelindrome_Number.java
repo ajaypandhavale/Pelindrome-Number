@@ -29,7 +29,9 @@ System.out.println("the number "+num +" is not pelindrome number");
 
 }
 
-System.out.println("update using branch branch nae branch");
+System.out.println("update using branch branch name update");
+
+System.out.println("update using branch stash branch name updates");
 
 }
 
